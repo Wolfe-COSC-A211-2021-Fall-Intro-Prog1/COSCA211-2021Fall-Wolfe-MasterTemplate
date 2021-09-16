@@ -18,7 +18,6 @@
           "-g3",
           "-Wall",
           "-fmessage-length=0",
-          "-march=native",
           "-v"
         ],
       },
@@ -73,7 +72,6 @@
           "-g3",
           "-Wall",
           "-fmessage-length=0",
-          "-march=native",
           "-v"
         ],
       },
@@ -131,7 +129,6 @@
           "-g3",
           "-Wall",
           "-fmessage-length=0",
-          "-march=native",
           "-Wno-deprecated",
           "-v"
         ],
